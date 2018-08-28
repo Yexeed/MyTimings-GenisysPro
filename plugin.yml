@@ -1,0 +1,8 @@
+name: MyTimings
+main: mytimings\MyTimings
+api: 3.0.0
+version: 2.0
+author: yexeed
+commands:
+  timings:
+    description: "Управление таймингами"
